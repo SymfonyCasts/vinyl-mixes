@@ -1,0 +1,38 @@
+[
+    {
+        "title": "PB & Jams",
+        "trackCount": 14,
+        "genre": "Rock",
+        "createdAt": "2021-10-02 00:00:00"
+    },
+    {
+        "title": "Put a Hex on your Ex",
+        "trackCount": 8,
+        "genre": "Heavy Metal",
+        "createdAt": "2022-04-28 00:00:00"
+    },
+    {
+        "title": "Spice Grills - Summer Tunes",
+        "trackCount": 10,
+        "genre": "Pop",
+        "createdAt": "2019-06-20 00:00:00.000000"
+    },
+    {
+        "title": "Garth Brooks & Other Friends from Low Places",
+        "trackCount": 14,
+        "genre": "Country",
+        "createdAt": "2022-03-13 00:00:00"
+    },
+    {
+        "title": "Garth & Other Friends from Low Places",
+        "trackCount": 14,
+        "genre": "Country",
+        "createdAt": "2022-03-13 00:00:00"
+    },
+    {
+        "title": "Alanis Morissette All Day Long",
+        "trackCount": 11,
+        "genre": "Alternative Rock",
+        "createdAt": "2022-05-01 00:00:00"
+    }
+]
